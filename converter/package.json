@@ -1,0 +1,17 @@
+{
+  "name": "converter",
+  "version": "0.0.0",
+  "description": "\"color converter program used for testing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter nyan"
+  },
+  "author": "\"leddfoot36\"",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
+    "request": "^2.83.0"
+  }
+}
