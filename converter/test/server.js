@@ -1,5 +1,8 @@
 // from https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
-//
+// NOTE !!!!!!!!!!MUST START THE SERVER FOR THIS TEST!!!!!!!!!!!!!!!
+// TO START SERVER COMMAND IS: node app/server.js
+
+
 // var expect  = require("chai").expect;
 // var request = require("request");
 //
